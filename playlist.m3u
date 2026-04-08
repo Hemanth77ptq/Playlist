@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Sample Video
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-2,Dekhlenge Saala
+#EXTINF:-1,Dekhlenge Saala
 https://bypasszbot.legendindex.workers.dev/direct.aspx?id=1wMo117yEquYUzqqpboZh3eBT8D0tMIEo 
 
-#EXTINF:-3,Hukkum
+#EXTINF:-1,Hukkum
 https://bypasszbot.legendindex.workers.dev/direct.aspx?id=1TOQQ201WSgWUPc2FNlbh5n69xEdN94TK
